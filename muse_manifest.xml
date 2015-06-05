@@ -1,7 +1,7 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="90776219" ref="index"/>
+    <file name="index.css" crc="142238444" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,6 +13,7 @@
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blue_art-header-main.jpg" crc="3779358465" ref="index"/>
@@ -24,6 +25,11 @@
     <file name="dsc01921138x45.jpg" crc="4232065612" ref="index"/>
     <file name="dsc03143138x45.jpg" crc="4282152430" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u390-4.png" crc="495186388" ref="index"/>
+    <file name="home166.png" crc="4157108346" ref="index"/>
+    <file name="email19.png" crc="30526679" ref="index"/>
+    <file name="website17.png" crc="498158754" ref="index"/>
+    <file name="telephone46.png" crc="4256379294" ref="index"/>
   </folder>
-  <file name="index.html" crc="3790231006" mt="1433479761764" redirect="true"/>
+  <file name="index.html" crc="528650675" mt="1433484003381" redirect="true"/>
 </manifest>
