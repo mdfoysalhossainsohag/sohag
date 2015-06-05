@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://computerclubbd.com/scripts/form_check.php</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/scripts/form_throttle.php</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/scripts/form-u793.php</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/scripts/form-u872.php</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://computerclubbd.com/images/blue_art-header-main.jpg</loc>
     <lastmod>2015-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -85,7 +109,79 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://computerclubbd.com/images/u741-4.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u847-17.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u847-17-r.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u847-17-m.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u847-17-fs.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u871-4.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u879-17.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u879-17-r.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u879-17-m.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/images/u879-17-fs.png</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://computerclubbd.com/index.html</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/login.html</loc>
+    <lastmod>2015-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://computerclubbd.com/sign-up.html</loc>
     <lastmod>2015-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

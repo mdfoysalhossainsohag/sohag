@@ -246,6 +246,12 @@
 	position: relative;
 }
 
+#u444.MuseMenuActive
+{
+	background-color: #0887A2;
+	margin: 0px;
+}
+
 #u446-4
 {
 	width: 78px;
@@ -283,12 +289,6 @@
 #u453:hover
 {
 	background-color: #18B5D7;
-	margin: 0px;
-}
-
-#u453:active
-{
-	background-color: #18B6D6;
 	margin: 0px;
 }
 
@@ -331,15 +331,9 @@
 	margin: 0px;
 }
 
-#u458:active
+#u453:active,#u458:active
 {
 	background-color: #18B6D6;
-	margin: 0px;
-}
-
-#u444.MuseMenuActive,#u453.MuseMenuActive,#u458.MuseMenuActive
-{
-	background-color: #0887A2;
 	margin: 0px;
 }
 
@@ -381,6 +375,9 @@
 {
 	z-index: 48;
 	width: 920px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #0E8AA6;
 	position: relative;
 }
 
@@ -390,8 +387,8 @@
 	width: 306px;
 	min-height: 20px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #DEDEDE;
+	border-color: #D0CCCC;
+	background-color: #1CBFDF;
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
@@ -401,6 +398,7 @@
 #u531:hover
 {
 	border-style: solid;
+	border-color: #D0CCCC;
 	background-color: #FFFFFF;
 	width: 306px;
 	min-height: 20px;
@@ -414,8 +412,8 @@
 	width: 306px;
 	min-height: 20px;
 	border-color: #999999;
-	background-color: transparent;
-	color: #999999;
+	background-color: #5FB8EF;
+	color: #FFFFFF;
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
@@ -427,6 +425,7 @@
 #u531:hover #u532-4
 {
 	border-color: #999999;
+	background-color: #5FB8EF;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 20px;
@@ -439,8 +438,8 @@
 	width: 306px;
 	min-height: 20px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #DEDEDE;
+	border-color: #D0CCCC;
+	background-color: #1CBFDF;
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
@@ -451,6 +450,7 @@
 #u527:hover
 {
 	border-style: solid;
+	border-color: #D0CCCC;
 	background-color: #FFFFFF;
 	width: 306px;
 	min-height: 20px;
@@ -461,7 +461,8 @@
 #u531.TabbedPanelsTabSelected,#u527.TabbedPanelsTabSelected
 {
 	border-style: solid;
-	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	background-color: #0E8AA6;
 	width: 306px;
 	min-height: 21px;
 	margin: 0px -10000px 0px 0px;
@@ -474,8 +475,8 @@
 	width: 306px;
 	min-height: 20px;
 	border-color: #999999;
-	background-color: transparent;
-	color: #999999;
+	background-color: #5FB8EF;
+	color: #FFFFFF;
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
@@ -487,6 +488,7 @@
 #u527:hover #u530-4
 {
 	border-color: #999999;
+	background-color: #5FB8EF;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 20px;
@@ -500,8 +502,8 @@
 	min-height: 20px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #DEDEDE;
+	border-color: #D0CCCC;
+	background-color: #1CBFDF;
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
@@ -512,6 +514,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
+	border-color: #D0CCCC;
 	background-color: #FFFFFF;
 	width: 306px;
 	min-height: 20px;
@@ -521,7 +524,8 @@
 #u523.TabbedPanelsTabSelected
 {
 	border-style: solid;
-	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	background-color: #0E8AA6;
 	width: 306px;
 	min-height: 21px;
 	margin: 0px -10000px 0px 0px;
@@ -534,8 +538,8 @@
 	width: 306px;
 	min-height: 20px;
 	border-color: #999999;
-	background-color: transparent;
-	color: #999999;
+	background-color: #5FB8EF;
+	color: #FFFFFF;
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
@@ -547,6 +551,7 @@
 #u523:hover #u525-4
 {
 	border-color: #999999;
+	background-color: #5FB8EF;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 20px;
@@ -557,10 +562,17 @@
 {
 	border-style: none;
 	border-color: transparent;
+	background-color: #0E8AA6;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 20px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u531.TabbedPanelsTabSelected #u532-4 p,#u527.TabbedPanelsTabSelected #u530-4 p,#u523.TabbedPanelsTabSelected #u525-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u488
@@ -575,8 +587,8 @@
 	z-index: 65;
 	width: 918px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	background-color: #0E8AA6;
 	padding-bottom: 26px;
 	margin-right: -10000px;
 	position: relative;
@@ -588,6 +600,7 @@
 	z-index: 66;
 	width: 898px;
 	min-height: 134px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -599,14 +612,7 @@
 {
 	font-size: 18px;
 	line-height: 22px;
-	color: #6B6B6B;
 	font-weight: bold;
-}
-
-#u492-4
-{
-	line-height: 20px;
-	color: #999999;
 }
 
 #u497
@@ -614,8 +620,8 @@
 	z-index: 72;
 	width: 918px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	background-color: #0E8AA6;
 	padding-bottom: 42px;
 	margin-right: -10000px;
 	position: relative;
@@ -641,8 +647,8 @@
 	z-index: 74;
 	width: 918px;
 	border-style: solid;
-	border-color: #999999;
-	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	background-color: #0E8AA6;
 	padding-bottom: 18px;
 	margin-right: -10000px;
 	position: relative;
@@ -695,7 +701,7 @@
 	z-index: 75;
 	width: 512px;
 	min-height: 140px;
-	color: #999999;
+	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -709,7 +715,7 @@
 	line-height: 14px;
 }
 
-#u496-2,#u496-5,#u496-6,#u496-8,#u496-9,#u496-11
+#u492-4,#u496-2,#u496-5,#u496-6,#u496-8,#u496-9,#u496-11
 {
 	line-height: 20px;
 }

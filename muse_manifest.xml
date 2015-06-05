@@ -1,35 +1,53 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="142238444" ref="index"/>
+    <file name="index.css" crc="412509067" ref="index"/>
+    <file name="sign-up.css" crc="364717110" ref="sign-up"/>
+    <file name="login.css" crc="86590374" ref="login"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3865766194" ref="index"/>
-    <file name="webpro.js" crc="3903299128" ref="index"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
-    <file name="touchswipe.js" crc="4156838003" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:sign-up"/>
+    <file name="museutils.js" crc="3865766194" ref="index:login:sign-up"/>
+    <file name="webpro.js" crc="3903299128" ref="index:login:sign-up"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:login:sign-up"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:login:sign-up"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:login:sign-up"/>
+    <file name="pie.js" crc="3827607177" ref="index:login:sign-up"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:login:sign-up"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:login:sign-up"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="index"/>
+    <file name="form_check.php" crc="4066397928" ref="login:sign-up"/>
+    <file name="form_throttle.php" crc="3962765407" ref="login:sign-up"/>
+    <file name="form-u793.php" crc="3985226410" ref="login"/>
+    <file name="form-u872.php" crc="170952870" ref="sign-up"/>
   </folder>
   <folder name="images">
-    <file name="blue_art-header-main.jpg" crc="3779358465" ref="index"/>
-    <file name="dsc01379.jpg" crc="224863336" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="dsc01921.jpg" crc="4271740443" ref="index"/>
-    <file name="dsc03143.jpg" crc="81079686" ref="index"/>
+    <file name="blue_art-header-main.jpg" crc="3779358465" ref="index:login:sign-up"/>
+    <file name="dsc01379.jpg" crc="224863336" ref="index:login:sign-up"/>
+    <file name="blank.gif" crc="4208392903" ref="index:login:sign-up"/>
+    <file name="dsc01921.jpg" crc="4271740443" ref="index:login:sign-up"/>
+    <file name="dsc03143.jpg" crc="81079686" ref="index:login:sign-up"/>
     <file name="dsc01379138x45.jpg" crc="161642763" ref="index"/>
     <file name="dsc01921138x45.jpg" crc="4232065612" ref="index"/>
     <file name="dsc03143138x45.jpg" crc="4282152430" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:login:sign-up"/>
     <file name="u390-4.png" crc="495186388" ref="index"/>
     <file name="home166.png" crc="4157108346" ref="index"/>
     <file name="email19.png" crc="30526679" ref="index"/>
     <file name="website17.png" crc="498158754" ref="index"/>
     <file name="telephone46.png" crc="4256379294" ref="index"/>
+    <file name="u741-4.png" crc="495186388" ref="login"/>
+    <file name="u847-17.png" crc="378404660" ref="login"/>
+    <file name="u847-17-r.png" crc="303281641" ref="login"/>
+    <file name="u847-17-m.png" crc="64337805" ref="login"/>
+    <file name="u847-17-fs.png" crc="372263343" ref="login"/>
+    <file name="u871-4.png" crc="495186388" ref="sign-up"/>
+    <file name="u879-17.png" crc="4285376706" ref="sign-up"/>
+    <file name="u879-17-r.png" crc="220029675" ref="sign-up"/>
+    <file name="u879-17-m.png" crc="3902759256" ref="sign-up"/>
+    <file name="u879-17-fs.png" crc="211000343" ref="sign-up"/>
   </folder>
-  <file name="index.html" crc="528650675" mt="1433484003381" redirect="true"/>
+  <file name="index.html" crc="469907992" mt="1433486848432" redirect="true"/>
+  <file name="login.html" crc="3798677451" mt="1433486842569" redirect="true"/>
+  <file name="sign-up.html" crc="271501670" mt="1433486858702" redirect="true"/>
 </manifest>
