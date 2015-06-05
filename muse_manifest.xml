@@ -1,9 +1,9 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="412509067" ref="index"/>
-    <file name="sign-up.css" crc="364717110" ref="sign-up"/>
-    <file name="login.css" crc="86590374" ref="login"/>
+    <file name="index.css" crc="191873903" ref="index"/>
+    <file name="sign-up.css" crc="3793384870" ref="sign-up"/>
+    <file name="login.css" crc="4290972658" ref="login"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:sign-up"/>
@@ -20,9 +20,10 @@
     <file name="form_throttle.php" crc="3962765407" ref="login:sign-up"/>
     <file name="form-u793.php" crc="3985226410" ref="login"/>
     <file name="form-u872.php" crc="170952870" ref="sign-up"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index:login:sign-up"/>
   </folder>
   <folder name="images">
-    <file name="blue_art-header-main.jpg" crc="3779358465" ref="index:login:sign-up"/>
+    <file name="blue_art-header-main.jpg" crc="4027618457" ref="index:login:sign-up"/>
     <file name="dsc01379.jpg" crc="224863336" ref="index:login:sign-up"/>
     <file name="blank.gif" crc="4208392903" ref="index:login:sign-up"/>
     <file name="dsc01921.jpg" crc="4271740443" ref="index:login:sign-up"/>
@@ -46,8 +47,14 @@
     <file name="u879-17-r.png" crc="220029675" ref="sign-up"/>
     <file name="u879-17-m.png" crc="3902759256" ref="sign-up"/>
     <file name="u879-17-fs.png" crc="211000343" ref="sign-up"/>
+    <file name="u1034-4.png" crc="4139379402" ref="index"/>
+    <file name="premium1.png" crc="325120747" ref="index"/>
+    <file name="u1036-5.png" crc="3796082403" ref="index"/>
+    <file name="network49.png" crc="336373130" ref="index"/>
+    <file name="u1037-4.png" crc="4020523659" ref="index"/>
+    <file name="hands10.png" crc="3868148874" ref="index"/>
   </folder>
-  <file name="index.html" crc="469907992" mt="1433486848432" redirect="true"/>
-  <file name="login.html" crc="3798677451" mt="1433486842569" redirect="true"/>
-  <file name="sign-up.html" crc="271501670" mt="1433486858702" redirect="true"/>
+  <file name="index.html" crc="4171620814" mt="1433527430862" redirect="true"/>
+  <file name="login.html" crc="4116181578" mt="1433527189678" redirect="true"/>
+  <file name="sign-up.html" crc="4204240055" mt="1433527179041" redirect="true"/>
 </manifest>
