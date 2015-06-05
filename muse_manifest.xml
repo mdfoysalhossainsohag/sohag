@@ -1,35 +1,29 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="sign-up.css" crc="180234744" ref="sign-up"/>
-    <file name="index.css" crc="4208133670" ref="index"/>
-    <file name="login.css" crc="4283844695" ref="login"/>
+    <file name="index.css" crc="90776219" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:sign-up"/>
-    <file name="museutils.js" crc="3865766194" ref="index:login:sign-up"/>
-    <file name="pie.js" crc="3827607177" ref="index:login:sign-up"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:login:sign-up"/>
-    <file name="webpro.js" crc="3903299128" ref="index:login:sign-up"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="index:login:sign-up"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:login:sign-up"/>
-    <file name="touchswipe.js" crc="4156838003" ref="index:login:sign-up"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:login:sign-up"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="smallflower.jpg" crc="3849274890" ref="index:login:sign-up"/>
-    <file name="blank.gif" crc="4208392903" ref="index:login:sign-up"/>
-    <file name="bigflower.jpg" crc="3893065589" ref="index:login:sign-up"/>
-    <file name="leaves.jpg" crc="532919387" ref="index:login:sign-up"/>
-    <file name="smallflower68x45.jpg" crc="281949797" ref="index"/>
-    <file name="bigflower68x45.jpg" crc="412915364" ref="index"/>
-    <file name="leaves68x45.jpg" crc="3870062669" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:login:sign-up"/>
-    <file name="smallflower168x112.jpg" crc="3990318995" ref="index"/>
-    <file name="bigflower168x111.jpg" crc="4130823901" ref="index"/>
-    <file name="leaves168x111.jpg" crc="478216905" ref="index"/>
+    <file name="blue_art-header-main.jpg" crc="3779358465" ref="index"/>
+    <file name="dsc01379.jpg" crc="224863336" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc01921.jpg" crc="4271740443" ref="index"/>
+    <file name="dsc03143.jpg" crc="81079686" ref="index"/>
+    <file name="dsc01379138x45.jpg" crc="161642763" ref="index"/>
+    <file name="dsc01921138x45.jpg" crc="4232065612" ref="index"/>
+    <file name="dsc03143138x45.jpg" crc="4282152430" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="38950248" mt="1433358119260" redirect="true"/>
-  <file name="login.html" crc="426819032" mt="1433358193678" redirect="true"/>
-  <file name="sign-up.html" crc="4285954451" mt="1433358225429" redirect="true"/>
+  <file name="index.html" crc="3790231006" mt="1433479761764" redirect="true"/>
 </manifest>
